@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben igbinedion
 - 👀 I’m interested in Machine Learning & Web Development
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on big data projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
